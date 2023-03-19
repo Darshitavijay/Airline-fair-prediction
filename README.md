@@ -1,1 +1,6 @@
-# Airline-fair-prediction
+# Airline-fair-prediction using Random Forest 
+Airline fair prediction is an important task for both the airlines and the customers. Accurate prediction of airline fares can help customers plan their travel budget in advance, while the airlines can optimize their pricing strategy to maximize their profits. One of the most popular algorithms used for airline fair prediction is the Random Forest algorithm.
+
+The Random Forest algorithm is a machine-learning technique that uses an ensemble of decision trees to make predictions. It is a powerful algorithm that can handle large datasets and can handle both regression and classification problems. In the airline fair prediction model, the Random Forest algorithm can be trained on historical data such as flight routes, dates, and prices to predict the prices of future flights.
+
+In this project, I have provided a detailed overview of the airline fair prediction model using Random Forest. We will discuss the steps involved in building the model, the key features used for prediction, and the evaluation metrics used to measure the accuracy of the model. A step-by-step guide on how to implement the model using Python programming language is also included .
